@@ -1,0 +1,8 @@
+{
+     "scope": "source.java",
+
+     "completions":
+   [
+      { "trigger": "sout\tSystem print", "contents": "System.out.println(\"$1\");" },
+   ]
+}

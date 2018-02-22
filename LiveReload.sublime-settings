@@ -1,0 +1,6 @@
+{
+	"enabled_plugins": [
+   "SimpleReloadPlugin",
+   "SimpleRefreshDelay"    // use SimpleRefresh for reload without delay
+  ]
+}

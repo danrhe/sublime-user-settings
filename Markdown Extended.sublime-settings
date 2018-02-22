@@ -1,0 +1,8 @@
+{
+  "extensions":
+  [
+    "md",
+    "markdown",
+  ],
+  "spell_check": true    // enable spell check
+}

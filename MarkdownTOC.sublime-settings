@@ -1,0 +1,6 @@
+{
+  "default_autoanchor": true,  // adds anchor to headings in not present
+  "default_autolink": true,     // make the ToC linkable
+  "default_bracket": "round",  // use parentheses for link (e.g. [linktext](linkreference)) otherwise both will be brackets (square)
+  "default_depth": 0  // 0 = unlimited depth
+}

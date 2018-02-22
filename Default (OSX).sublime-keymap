@@ -1,0 +1,22 @@
+[
+  {
+  "keys": [
+    "alt+p"
+  ],
+  "command": "markdown_preview",
+  "args": {
+    "target": "browser",
+    "parser": "markdown"
+  }
+
+  },
+  {
+  "keys": [
+    "alt+t"
+  ],
+  "command": "markdowntoc_insert"  // update is markdowntoc_update
+},
+  { "keys": ["shift+alt+up"], "command": "swap_line_up" },
+  { "keys": ["shift+alt+down"], "command": "swap_line_down" },
+
+]

@@ -3,6 +3,8 @@
 
      "completions":
    [
-      { "trigger": "sout\tSystem print", "contents": "System.out.println(\"$1\");" },
+      { "trigger": "systemOutPrintln\tSystem print", "contents": "System.out.println(\"$1\");" },
+      { "trigger": "trycatch", "contents": "try{ $3} catch($1 Exception exception){$2};" },
+      { "trigger": "trycatchthrow", "contents": "try{ $3} catch($1Exception exception){throw new $2Exception(exception.getMessage();}" },
    ]
 }

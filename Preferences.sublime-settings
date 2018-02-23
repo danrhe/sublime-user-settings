@@ -3,6 +3,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"ST3-Java-Autocomplete",
 		"Vintage"
 	]
 }
